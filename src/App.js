@@ -14,7 +14,7 @@ function App() {
         <Video 
         url="https://v16m.tiktokcdn.com/8b30dca2eda7011c01541ac1f656eac8/619c2473/video/tos/useast2a/tos-useast2a-pve-0037-aiso/72344fa213df42ed80460fb42793f300/?a=1233&br=2374&bt=1187&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=wZmdpFOMkag3-I&l=202111221714480102510042020C777248&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajY6cmg6ZjM5ODMzZjczM0ApNTs5ZjQ4ZGQ8Nzs7NDNpZmcxZTMycjRfX2xgLS1kMWNzc2IvXjBgMWIvNC4tYy1iNS46Yw%3D%3D&vl=&vr="
         likes={111} messages={222} shares={70}
-        channel="AffanBhola" description="Guys,follow me" song="PZ MEER😂"
+        channel="AffanBhola" description="Guys,follow me" song=" MEER😂"
         />
       </div>
 
